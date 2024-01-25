@@ -14,7 +14,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: aliceblue;
+    background-color: rgb(253, 202, 255);
 }
 
 .container{
